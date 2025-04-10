@@ -50,5 +50,5 @@
 
 ### 📫 Get in Touch:
 Feel free to connect or reach out if you want to collaborate, discuss cool ideas, or just chat tech:
-- 💼 [LinkedIn](#)(https://www.linkedin.com/in/aleksa-vukadinovic-19aa24295/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aleksa-vukadinovic-19aa24295/)
 - 📧 Email: `alexvukadin8@gmail.com`
