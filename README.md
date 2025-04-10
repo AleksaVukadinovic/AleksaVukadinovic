@@ -42,7 +42,7 @@
 ---
 
 ### 📈 GitHub Stats:
-![Aleksa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide=prs)
+![Aleksa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksaVukadinovic&show_icons=true&theme=tokyonight&hide=prs)
 
 ---
 
