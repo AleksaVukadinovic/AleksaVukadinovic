@@ -41,15 +41,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-### 📈 GitHub Stats:
-![Aleksa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksaVukadinovic&show_icons=true&theme=tokyonight&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksaVukadinovic&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksaVukadinovic&theme=tokyonight)
-
----
-
 ### 📫 Get in Touch:
 Feel free to connect or reach out if you want to collaborate, discuss cool ideas, or just chat tech:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleksa-vukadinovic-19aa24295/)
