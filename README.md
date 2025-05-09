@@ -7,7 +7,7 @@
 - 🧵 Compilers & Programming Languages
 - 🎨 Computer Graphics
 
-🧑‍💻 I'm currently working as a **Full-Stack Developer** (primarily focused on **backend development**), where I enjoy solving complex problems and learning new skills.
+🧑‍💻 I'm currently working as a **Full-Stack Developer**, where I enjoy solving complex problems and learning new skills.
 
 ---
 
